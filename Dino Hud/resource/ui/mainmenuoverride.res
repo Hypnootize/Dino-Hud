@@ -319,8 +319,8 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"-145"
-		"ypos"			"72"
+		"xpos"			"-20"
+		"ypos"			"82"
 		"zpos"			"1"
 		"wide"			"320"
 		"tall"			"100"
