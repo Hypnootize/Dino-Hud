@@ -283,7 +283,9 @@
 		
 		if_match
 		{
-			"zpos"				"4"
+			"xpos"				"c-73"
+			"ypos"				"8"
+			"zpos"				"5"
 		}
 		
 		"TimePanelValue"
@@ -304,8 +306,7 @@
 			
 			if_match
 			{
-				"font"			"Ubuntu12"
-				"ypos"			"9"
+				"font"		"Ubuntu14"
 			}
 		}	
 	}
