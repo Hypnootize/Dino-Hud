@@ -1,12 +1,7 @@
 # Dino-Hud
-Screenshots: https://imgur.com/a/rHr5T
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/rHr5T)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 255
-
-hud_combattext_green 255
-
-hud_combattext_blue 30
+![](https://i.imgur.com/qY6gmG1.jpg)
